@@ -127,14 +127,13 @@ td, th {
   border: 1px solid #ccc;
 }
 
-pre, code {
+pre {
+  font-family: inherit;
+  }
+
+code {
   font-family: inherit;
   background-color: #eee;
-}
-
-pre {
-  padding: .5rem 1rem;
-  font-size: 0.8rem;
 }
 
 code {
