@@ -31,3 +31,12 @@ layout: default
   </p>
   {% endfor %}
 </div>
+
+<footer>
+  Kontakt: <script language="JavaScript">
+  var username = "tomas.kozelek";
+  var hostname = "gmail.com";
+  var full_email = username + "@" + hostname ;
+  document.write(full_email);
+  </script>
+</footer>
