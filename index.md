@@ -2,15 +2,23 @@
 layout: default
 ---
 
-<div class="posts">
-  {% assign poems = (site.posts sort: "date_info") | reverse %}
+{% assign poems = site.posts | sort: "path" %}
+
+<ul class="posts">
   {% for poem in poems%}
+  <li>
+    <a href="#{{poem.title | slugify}}"> {{ poem.title }} </a>
+  </li>
+  {%endfor%}
+</ul>
+
+<div class="posts">
+  {% for poem in poems%}
+  <a name="{{poem.title | slugify}}"></a>
   <p>
   <div class="post">
     <h2 class="post-title">
     {{ poem.title }}
-      <!-- <a href="{{ poem.url }}"> {{ poem.title }}  </a>
-       -->
     </h2>
     {% if poem.date %}
     <div class="post-date">{{ poem.date_info }}</div>
