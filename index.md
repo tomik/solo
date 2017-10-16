@@ -19,11 +19,10 @@ layout: default
   <a name="{{poem.title | slugify}}"></a>
   <p class="post">
     <h2 class="post-title"> {{ poem.title }} </h2>
-    {% if poem.date %}
-    <div class="post-date" style="margin-bottom: 1rem;">{{ poem.date_info }},
+    <div class="post-date" style="margin-bottom: 1rem;">
+    {% if poem.date_info %} {{ poem.date_info }}, {% endif %}
     {% if poem.place %} {{poem.place}} {% endif %}
     </div>
-    {% endif %}
 
     <pre>
 {{ poem.content }}
