@@ -21,8 +21,8 @@ Nebo se projdi po tom záhonu bos.
 Zaboř své prsty do mezer slov,
 mazlavé hlíny z níž báseň teče,
 špindíra na záhoně v kleče,
-zapomněl na svět, hádky, meče.
-Mlasknutím završil svůj lov.
+zapomněl na svět, hádky, meče,
+mlasknutím završil svůj lov.
 
 To mlasknutí je známka vztahu,
 razítko, že jsi tady

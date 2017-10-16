@@ -21,7 +21,7 @@ Byl by hřích, bezhlavě, setřást to kuře z hlavy.
 S kuřetem na hlavě razím si cestu davy.
 Je v tom kus svobody kašlat na cizí stavy.
 
-S kuřetem mezi vlasy, chodit si jako klaun
+S kuřetem mezi vlasy, chodit si jako klaun,
 volit si vlastní trasy, cestovat bez zábran.
 Ať se mi vysměje, kdo sám je bez vady.
 Tímto teď děkuji, za žlutě opeřené dary,

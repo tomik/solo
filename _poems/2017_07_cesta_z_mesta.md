@@ -44,8 +44,8 @@ Jsem pánem tvorstva, Mě se to netýká.
 Plním si přání na počkání, žádná příště,
 zde budou obchody a parkoviště,
 dobrá, možná i malé dětské hřiště.
-Vše krásné nové a hlavně okamžitě, zítra je dnes,
-Máme se dobře, pašíci v žitě,
+Vše krásné nové a hlavně okamžitě, zítra je dnes!
+Máme se dobře, pašíci v žitě.
 Prosím? Tady, že stál les?
 
 Tak obýváme obýváky,
@@ -81,5 +81,5 @@ Nechat svou vážnost na březích řek
 a dříve než náš šílený věk,
 podřízne větev na níž stojí,
 pozdravím život v bílém kroji,
-a nabídnu mu ruku svoji,
-ten život za to totiž stojí.
+a nabídnu mu ruku svoji.
+Ten život za to totiž stojí.

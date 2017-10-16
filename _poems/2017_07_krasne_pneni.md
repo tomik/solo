@@ -20,14 +20,14 @@ anebo záznam Ruského baletu.
 Pak protrhnou se všechny hráze
 a voda se stejně mocně valí.
 Trochu zatuchlá, nese kaly,
-padlé stromy, auta, karavany obytné
+padlé stromy, auta, karavany obytné,
 televize i jiné vize,
 výdobytky páté vládní strany, prý nezbytné.
 
 Proto nebylo-by snažší a také méně dražší
 nechat to srdce nechráněné ?
 Živá voda pak skrz něj plyne,
-Čistí ho, hladí, chladí, leští.
+čistí ho, hladí, chladí, leští.
 Ten okamžik, to rozepnění, puknutí kleští,
 je pak jak vlnka na hladině, když oceán tiše pění.
 
@@ -50,4 +50,4 @@ si zlehka nasadíme, připneme a protáhneme.
 Víme že sníme a všechno smíme
 a s tím se po nebi jak vlnky rozběhneme.
 Tak šťastný let a nashle nad sedmi moři,
-kde rozepnutá srdce s lehkostí svět tvoří.
+kde otevřená srdce s lehkostí svět tvoří.

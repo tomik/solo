@@ -25,4 +25,4 @@ kostičky lega, když jsme byli malí.
 Barevné trakaře popadaly z mraků
 a teď si ve formách náklaďáků a osobáků,
 tam a zpět a zase tam a zase zpět
-po cestách pádí. Plné harampádí.
+po cestách pádí - plné harampádí.

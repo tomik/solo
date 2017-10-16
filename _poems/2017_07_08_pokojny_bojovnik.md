@@ -16,7 +16,8 @@ pánům ve stoje, dámám vkleče,
 vymýšlel slov nototvary,
 zpíval si hymnu, když v troubě peče,
 sladký nákyp z nejčerstvějších zpráv a strachů,
-hrál si na Villona i na Máchu, s přáteli hrál na valchu
+hrál si na Villona i na Máchu,
+s přáteli hrál na valchu
 a čekal až sladká můza utne jeho křeče.
 
 Vždyť rozvášnit lze mnohé davy,

@@ -23,5 +23,5 @@ Bez tíhy stříbra, plnosti ženy,
 bez dní co v síť jsou zapleteny,
 obloha světlá je a mladá.
 Po louce pluje letní kvítí
-a velký kotouč něžně svítí.
+a velký kotouč něžně svítí
 na tři krále vprostřed bytí.

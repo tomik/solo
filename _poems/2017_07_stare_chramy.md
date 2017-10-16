@@ -17,7 +17,7 @@ vábí je ptáček stěhováček.
 Na další atrakce a prolézačky,
 nemají nikdy dost, zlaťáků plné váčky
 a sobě pro radost skládají rýmovačky.
-Z odstavců, článků a paragrafů
+Z odstavců, článků a paragrafů,
 tiskových zpráv, růstu mezd a grafů,
 výsledků průzkumů a sčítání hlasů.
 

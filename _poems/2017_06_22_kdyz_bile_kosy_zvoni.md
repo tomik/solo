@@ -11,7 +11,7 @@ Před oknem stojím a klidně močím,
 ani se nehnu, neotočím.
 Náhle mne chladná ruka v zádech hladí,
 jako bych nestál ve tmě sám,
-jako by kdosi starý, velmi starý
+jako by kdosi starý, velmi starý,
 přes rameno mi hleděl v dál
 a děsivě se řehotal.
 
@@ -27,7 +27,7 @@ co zůstal opuštěný v černém lese.
 A zatím země s nebem rve se.
 
 Je noc, kdy bílé kosy zvoní,
-kdy staré ženy strachem se k sobě blíže kloní.
+kdy staré ženy ze strachu se k sobě blíže kloní.
 
 V tom Thór přichází na večírek,
 bič z rudých copů mrtvých dívek.

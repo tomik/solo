@@ -17,7 +17,7 @@ i lidé staří jsou zas mladí.
 
 Jak pochopit, co pochopit se nedá?
 
-Když vesmír, klouček neposeda
+Když vesmír, klouček neposeda,
 tančí skrz každý atom svého bytí,
 ať chmurno je, či slunko svítí,
 ať prosíme o chléb či jsme sytí.
