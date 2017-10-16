@@ -4,7 +4,7 @@ layout: default
 
 {% assign poems = site.poems | sort: "path" | reverse%}
 
-<ul class="posts">
+<ul class="posts" style="margin-bottom: 3rem;">
   {% for poem in poems%}
   <li>
     <a href="#{{poem.title | slugify}}"> {{ poem.title }} </a>
@@ -12,13 +12,17 @@ layout: default
   {%endfor%}
 </ul>
 
+
+
 <div class="posts">
   {% for poem in poems%}
   <a name="{{poem.title | slugify}}"></a>
   <p class="post">
     <h2 class="post-title"> {{ poem.title }} </h2>
     {% if poem.date %}
-    <div class="post-date">{{ poem.date_info }}</div>
+    <div class="post-date" style="margin-bottom: 1rem;">{{ poem.date_info }},
+    {% if poem.place %} {{poem.place}} {% endif %}
+    </div>
     {% endif %}
 
     <pre>
@@ -28,7 +32,7 @@ layout: default
   {% endfor %}
 </div>
 
-<footer>
+<footer style="margin-top:2rem;">
   Kontakt: <script language="JavaScript">
   var username = "tomas.kozelek";
   var hostname = "gmail.com";

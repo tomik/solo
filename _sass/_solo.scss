@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  margin: 2rem 0 5rem;
+  margin: 2rem 0;
   color: #333;
 }
 
@@ -55,14 +55,14 @@ h1 a {
 }
 
 h2 {
-  margin-top: 2rem;
+  margin-top: 0;
   font-size: 1.25rem;
   margin-bottom: 0.75rem;
 }
 
 @media (min-width: 30rem) {
   h2 {
-    margin-top: 2.5rem;
+    margin-top: 0;
     font-size: 1.5rem;
     margin-bottom: 1rem;
   }
@@ -76,7 +76,8 @@ h3, h4, h5, h6 {
 
 p, ul, ol, dl, table, pre, blockquote {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 ul, ol {
