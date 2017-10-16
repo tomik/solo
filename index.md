@@ -25,7 +25,7 @@ layout: default
     </div>
 
     <pre>
-{{ poem.content }}
+{{ poem.content | remove: '<p>' | remove: '</p>' }}
     </pre>
     </p>
   {% endfor %}
