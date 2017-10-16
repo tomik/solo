@@ -32,10 +32,10 @@ layout: default
 </div>
 
 <footer style="margin-top:2rem; padding-bottom: 1.5rem;">
-  Kontakt: <script language="JavaScript">
+  Sepsal: Tomáš Kozelek (<script language="JavaScript">
   var username = "tomas.kozelek";
   var hostname = "gmail.com";
   var full_email = username + "@" + hostname ;
   document.write(full_email);
-  </script>
+  </script>)
 </footer>
