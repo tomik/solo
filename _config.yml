@@ -10,5 +10,6 @@ sass:
   style: compressed
 
 collections:
-  drafts:
+  poems:
+    markdown: kramdown
     output: true

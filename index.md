@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign poems = site.drafts | sort: "path" %}
+{% assign poems = site.poems | sort: "path" %}
 
 <ul class="posts">
   {% for poem in poems%}
