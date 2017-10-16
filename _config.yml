@@ -11,5 +11,4 @@ sass:
 
 collections:
   poems:
-    markdown: kramdown
     output: true
