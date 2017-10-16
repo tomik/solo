@@ -11,7 +11,7 @@ chvíle kdy jeden je víc než davy,
 slunce když nepálí, jen zlehka hladí
 a vánek dívkám sukně zvedá.
 
-Obloha jež před chvílí byla bledá,
+Obloha ještě před chvílí bledá,
 teď ožívá a mraky svádí,
 i lidé staří jsou zas mladí.
 
@@ -35,6 +35,6 @@ Jak vystihnout, co vystihnout se nedá?
 A každý okamžik je děkování,
 pozvánka života k životu malování,
 k svlékání šatů, k milování,
-v temnotě sametové počínání.
+v temnotě sametové spočínání.
 
 Proč pochopit chci, co pochopit se nedá?

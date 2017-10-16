@@ -14,17 +14,17 @@ Kdyby se srdce uzavřelo, třeba v železné váze.
 Přehrady, valy obestavělo, necítilo se naze,
 stejně ho jako kamikaze
 jednou rozerve moment v letu.
-Může to spustit próza, sousedovic róza,
+Může to spustit próza, sousedovic Róza,
 anebo záznam Ruského baletu.
 
 Pak protrhnou se všechny hráze
 a voda se stejně mocně valí.
-Trochu zatuchlá, nese kaly
+Trochu zatuchlá, nese kaly,
 padlé stromy, auta, karavany obytné
 televize i jiné vize,
-Výdobytky páté vládní strany, prý nezbytné.
+výdobytky páté vládní strany, prý nezbytné.
 
-Proto nebylo-by snažší a třeba i méně dražší
+Proto nebylo-by snažší a také méně dražší
 nechat to srdce nechráněné ?
 Živá voda pak skrz něj plyne,
 Čistí ho, hladí, chladí, leští.
@@ -50,4 +50,4 @@ si zlehka nasadíme, připneme a protáhneme.
 Víme že sníme a všechno smíme
 a s tím se po nebi jak vlnky rozběhneme.
 Tak šťastný let a nashle nad sedmi moři,
-kde rozepnutá srdce radostně švitoří.
+kde rozepnutá srdce s lehkostí svět tvoří.

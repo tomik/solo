@@ -5,12 +5,12 @@ place: Praha
 ---
 
 V Jedné Básni, mnoho světů
-kříží se jak v zimních nocích
+kříží se jak v zimních nocích,
 paprsky osamělých světlometů,
 radost i stesk v dětských krocích.
 
 Jak strážní ohně v dobách míru,
-plaménky svícnu zrozených ze tmy,
+plaménky svícnů zrozených ze tmy,
 náhodný úsměv, pohled letmý
 a příchuť kouzelných elixírů.
 

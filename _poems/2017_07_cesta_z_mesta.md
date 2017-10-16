@@ -6,9 +6,10 @@ place: Vršovice a Vršov
 
 Nepotřebujem politiky, právníky, mistry rétoriky,
 ale metaře, údržbáře, popeláře.
-To abychom si odklidily, ten binec, co jsme si vytvořili,
-když jsme uvěřili v řepných polí snílky,
-že budou prima chvilky,
+To abychom si odklidili,
+ten binec, co jsme si vytvořili,
+když jsme uvěřili v řepných polí snílky.
+Že budou prima chvilky,
 až bude banán jeden jako druhý,
 až na vše budou zákona soustruhy,
 pro děti bezpečnostní auto popruhy
@@ -36,9 +37,9 @@ Trošku jako pijavice,
 sajem co jde, více je více.
 Vykácet lesy, srovnat hory,
 a na rozbahněnou pustou zemi,
-nahnat bagry a buldozery
+nahnat bagry a buldozery,
 nenechat kámen na kameni.
-A země pláče, tiše vzlyká,
+A země pláče, tiše vzlyká.
 Jsem pánem tvorstva, Mě se to netýká.
 Plním si přání na počkání, žádná příště,
 zde budou obchody a parkoviště,

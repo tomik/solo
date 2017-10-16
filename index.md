@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign poems = site.poems | sort: "path" %}
+{% assign poems = site.poems | sort: "path" | reverse%}
 
 <ul class="posts">
   {% for poem in poems%}
@@ -15,11 +15,8 @@ layout: default
 <div class="posts">
   {% for poem in poems%}
   <a name="{{poem.title | slugify}}"></a>
-  <p>
-  <div class="post">
-    <h2 class="post-title">
-    {{ poem.title }}
-    </h2>
+  <p class="post">
+    <h2 class="post-title"> {{ poem.title }} </h2>
     {% if poem.date %}
     <div class="post-date">{{ poem.date_info }}</div>
     {% endif %}
@@ -27,8 +24,7 @@ layout: default
     <pre>
 {{ poem.content }}
     </pre>
-    </div>
-  </p>
+    </p>
   {% endfor %}
 </div>
 

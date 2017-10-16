@@ -20,8 +20,8 @@ sídliště, hřiště, parkoviště,
 kolejiště a jiná odkladiště.
 Hrst lentilek vystřelených z praku.
 Výrobní haly co nezahálí,
-se všude kolem tratí líně válí.
-Kostičky lega, když jsme byli malí.
+se všude kolem tratí líně válí,
+kostičky lega, když jsme byli malí.
 Barevné trakaře popadaly z mraků
 a teď si ve formách náklaďáků a osobáků,
 tam a zpět a zase tam a zase zpět

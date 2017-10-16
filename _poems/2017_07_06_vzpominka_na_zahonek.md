@@ -26,7 +26,7 @@ Mlasknutím završil svůj lov.
 
 To mlasknutí je známka vztahu,
 razítko, že jsi tady
-a ne v tahu
+a ne v tahu,
 někde na další stránce,
 že líbí se ti na zahrádce,
 kde skládám řádky,

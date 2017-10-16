@@ -22,10 +22,10 @@ vše v jediný hladký celek.
 Když láska velí stínat hlavy,
 jak erupce žhavé lávy,
 vše, co je v cestě v sobě taví,
-řád nový skrze spoušť staví.
+řád nový skrze spoušť teď staví.
 
 Když láska velí lámat kosti,
-zahodit klíče, spálit mosty, do minulosti,
+zahodit klíče, spálit mosty - do minulosti,
 svléknout si kostým dvojjakosti
 a čtyřicet dní se postit.
 

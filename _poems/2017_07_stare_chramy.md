@@ -10,7 +10,7 @@ a není již těch, co by podepřeli
 zatuchlé zdivo, když se drolí.
 
 Dnes se staré chrámy hroutí,
-poslední děti odcházejí z poutí
+poslední děti odcházejí z pouti
 s náručí plnou laciných hraček:
 bublifuk, pozlátko, papírový dráček,
 vábí je ptáček stěhováček.
@@ -29,6 +29,6 @@ kohouti zdraví nový den.
 Jen skrze pád se nové zrodí,
 jen bahno, lotus čistý plodí.
 Tak přiznejme si blahorodí,
-že rod Váš, jenž vystavěl ty chrámy
+že rod Váš, jenž vystavěl tyto chrámy,
 již dávno zapomněl své slávy
 a my nechcem Vás tu už za pány.
