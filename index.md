@@ -31,7 +31,7 @@ layout: default
   {% endfor %}
 </div>
 
-<footer style="margin-top:2rem;">
+<footer style="margin-top:2rem; padding-bottom: 1.5rem;">
   Kontakt: <script language="JavaScript">
   var username = "tomas.kozelek";
   var hostname = "gmail.com";
