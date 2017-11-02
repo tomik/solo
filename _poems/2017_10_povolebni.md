@@ -1,5 +1,5 @@
 ---
-title: Povolebnís
+title: Povolební
 date_info: 2017-10
 place: Nebeská Rybná, Praha
 ---
